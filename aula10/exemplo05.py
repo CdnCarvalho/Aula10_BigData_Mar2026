@@ -15,3 +15,4 @@ else:
 # Executa sempre. Com erro ou não, o bloco finally sempre irá executar
 finally:
     print('Programa encerrado!')
+    
